@@ -1,6 +1,5 @@
 #!/usr/bin/groovy
-package com.workshop
-
-class Config {
-    // Place Default Variable Here
+package​ ​ com.workshop
+class​ ​ Config​ {
+// TODO: Add Default Variable
 }
